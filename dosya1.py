@@ -1,3 +1,0 @@
-selçuk
-akarın
-Beşiktaş

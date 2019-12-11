@@ -1,3 +1,2 @@
-selçuk
-akarın
+
 Beşiktaş
