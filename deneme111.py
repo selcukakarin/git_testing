@@ -1,2 +1,0 @@
-def merhaba():
-    print("Hello")
