@@ -1,4 +1,7 @@
-def carpma(x,y):
-	return x+y
-def merhaba():
-	print("selam")
+fb fb
+fb fb
+fb fb
+fb fb
+fb fb
+fb fb
+fb fb
